@@ -1,0 +1,4 @@
+name: Site API Key
+description: 'Set a site API Key and JSON representation of a given node with the content type Page using key value'
+type: module
+core: 8.x
